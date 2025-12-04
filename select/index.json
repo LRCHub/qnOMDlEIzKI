@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "みちづれ",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-04T12:39:56.213143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みちづれ - From THE FIRST TAKE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_みちづれ_-_From_THE_FIRST_TAKE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "Aki Yashiro",
+      "has_synced": false,
+      "path": "select/02_みちづれ_Aki_Yashiro.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "八代亜紀",
+      "has_synced": false,
+      "path": "select/03_みちづれ_八代亜紀.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "보천보전자악단",
+      "has_synced": false,
+      "path": "select/04_みちづれ_보천보전자악단.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_みちづれ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/06_みちづれ_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "みちづれ (Instrumental)",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/07_みちづれ_(Instrumental)_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "みちづれ - From THE FIRST TAKE - Michizure - From THE FIRST TAKE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/08_みちづれ_-_From_THE_FIRST_TAKE_-_Michizure_-_From_THE_FIRST_TAKE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "みちづれ",
+      "artist": "牧村三枝子",
+      "has_synced": false,
+      "path": "select/09_みちづれ_牧村三枝子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "みちづれ / Michizure",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/10_みちづれ___Michizure_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "みちづれ - From THE FIRST TAKE",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/11_みちづれ_-_From_THE_FIRST_TAKE_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みちづれ",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_みちづれ_星街すいせい.txt"
+    }
+  ]
+}
